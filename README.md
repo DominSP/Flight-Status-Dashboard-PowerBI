@@ -43,4 +43,6 @@ This repository includes all files used to create the Flight Status Dashboard:
 - Power BI File (.pbix) – The interactive dashboard and data model.
 - Dashboard Screenshot (.png) – A preview of the final dashboard.
 
+Data used in this project was obtained from publicly available online sources for educational purposes only.
+
 ## Dominika Schabowska
