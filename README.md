@@ -30,4 +30,17 @@ The dashboard provides an overview of flight statistics and helps identify patte
 - 1.47% of flights were cancelled.
 - Weather was the largest cancellation category, accounting for 57.31% of cancellations.
 
+## Repository Contents
+
+This repository includes all files used to create the Flight Status Dashboard:
+
+- 4 Data Tables – Source tables used for data preparation, analysis and dashboard development.
+  **flights** (the table was reduced by removing some records to decrease the overall file size and improve performance)
+  **airlines**
+  **airports**
+  **cancellation_codes**
+
+- Power BI File (.pbix) – The interactive dashboard and data model.
+- Dashboard Screenshot (.png) – A preview of the final dashboard.
+
 ## Dominika Schabowska
